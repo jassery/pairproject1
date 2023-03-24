@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://img.freepik.com/photos-gratuite/vue-dessus-accessoires-nourriture-pour-animaux-compagnie_23-2148949562.jpg?w=740&t=st=1679620864~exp=1679621464~hmac=1718cb656277bccb3a33ff0707e0d5f36561b9db670d68e46cbb436b4705782c");
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
